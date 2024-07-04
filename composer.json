@@ -1,0 +1,14 @@
+{
+    "name": "mathe/gluocrm",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matheus Tosta"
+        }
+    ],
+    "require": {}
+}
