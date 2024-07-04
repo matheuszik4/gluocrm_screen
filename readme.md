@@ -1,4 +1,4 @@
-# Projeto GluCRM
+# Projeto GluoCRM
 
 - Renderização de template: Smarty
 - Bootstrap
